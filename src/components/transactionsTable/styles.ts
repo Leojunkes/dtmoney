@@ -26,10 +26,10 @@ table{
             color:var(--text-title)
         }
 
-        &.deposito{
+        &.deposit{
             color:var(--green);
         }
-        &.retirada{
+        &.withdraw{
             color:var(--red);
         }
         
